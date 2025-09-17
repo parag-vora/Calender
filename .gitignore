@@ -1,0 +1,9 @@
+#ignore executable files
+*.exe
+*.o
+
+#ignore object files
+*.obj
+
+#ignore json files
+*.json

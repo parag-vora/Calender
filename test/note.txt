@@ -1,0 +1,4 @@
+//Build the test code with this CLI
+g++ test.cpp mytest.cpp -o mytest.exe -lgtest -lgtest_main -lpthread
+
+// or Build with make
